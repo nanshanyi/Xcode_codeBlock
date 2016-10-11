@@ -5,6 +5,6 @@
     终端执行线面命令即可
 ```
 1.  git clone https://github.com/nanshanyi/Xcode_codeBlock.git
-2. cd xcode_tool
+2. cd Xcode_codeBlock
 3. ./setup_snippets.sh
 ```
