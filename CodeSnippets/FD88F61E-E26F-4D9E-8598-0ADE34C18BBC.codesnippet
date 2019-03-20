@@ -6,7 +6,7 @@
 	<string>l_assign</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, assign) &lt;#type#&gt;  &lt;#name#&gt;;</string>
@@ -14,6 +14,8 @@
 	<string>FD88F61E-E26F-4D9E-8598-0ADE34C18BBC</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>L Property - assign</string>
 	<key>IDECodeSnippetUserSnippet</key>
